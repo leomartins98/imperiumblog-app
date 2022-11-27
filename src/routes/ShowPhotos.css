@@ -1,0 +1,19 @@
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.item-gallery {
+    position: relative;
+}
+
+.item-gallery .img-gallery {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.title-photos {
+    text-align: center;
+}
