@@ -30,11 +30,11 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/rede-social.git
+   git clone https://github.com/leomartins98/imperiumblog-app.git
    
 2. Acesse o diretório do projeto:
     ```bash
-    cd rede-social
+    cd imperiumblog-app
     
 4. Instale as dependências:
     ```bash
