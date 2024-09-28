@@ -48,10 +48,10 @@ A aplicação estará disponível em http://localhost:5173.
 
 ## 📜 Funcionalidades
 
-**Visualizar posts:** Os posts são listados na página principal, com informações básicas como título, conteúdo e autor.
-**Comentários:** Cada post pode ser expandido para exibir seus comentários.
-**Perfis de usuários:** Ao clicar no nome de um usuário, é possível visualizar seu perfil e todas as suas postagens.
-**Login**: O usuário consegue logar e ter uma sessão enquanto utiliza o sistema.
+- **Visualizar posts:** Os posts são listados na página principal, com informações básicas como título, conteúdo e autor.
+- **Comentários:** Cada post pode ser expandido para exibir seus comentários.
+- **Perfis de usuários:** Ao clicar no nome de um usuário, é possível visualizar seu perfil e todas as suas postagens.
+- **Login**: O usuário consegue logar e ter uma sessão enquanto utiliza o sistema.
 
 ## 📝 Licença
 Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mais detalhes.
